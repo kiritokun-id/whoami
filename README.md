@@ -3,3 +3,5 @@
 * Experiences
 * Hobbies
 * Contact
+
+> License and Big Thanks to OSSPhilippines
