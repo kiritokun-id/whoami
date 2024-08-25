@@ -3,64 +3,132 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Private Profile - Kirito-kun</title>
+    <title>Profile Template</title>
     <style>
         body {
-            background-color: #000;
-            color: #fff;
-            font-family: 'Courier New', Courier, monospace;
+            font-family: 'Courier New', monospace;
+            font-size: 12px;
+            color: white;
+            background-color: black;
             margin: 0;
             padding: 0;
+            padding: 0 60px; /* Menambahkan padding untuk memperlebar margin kiri dan kanan */
+        }
+        header {
+            background-color: black; /* Warna background diubah menjadi hitam */
+            padding: 15px;
+            text-align: center; /* Mengatur konten header ke tengah */
+            font-size: 18px;
+        }
+        nav {
+            background-color: green;
+            padding: 10px 20px;
+            text-align: left;
+        }
+        nav a {
+            color: white;
+            margin-right: 30px;
+            text-decoration: none;
+            position: relative;
+        }
+        nav a:hover {
+            color: blue; /* Warna teks berubah menjadi kuning ketika dihover */
+        }
+        nav a:active {
+            color: red; /* Warna teks berubah menjadi merah ketika diklik */
         }
         .container {
-            text-align: center;
-            padding: 50px;
+            display: flex;
+            margin: 20px 0; /* Mengurangi margin kanan dan kiri karena sudah diatur di body */
         }
-        .profile-header {
-            border: 2px solid #f00;
+        .profile-description {
+            flex: 1;
+            margin-right: 20px;
+            border: 2px solid green;
             padding: 20px;
-            border-radius: 10px;
-            background: linear-gradient(45deg, #000 50%, #222 50%);
-            position: relative;
-            display: inline-block;
-            box-shadow: 0 0 10px rgba(0, 255, 0, 0.5);
+            max-width: 250px;
         }
-        .profile-header::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 0;
+        .profile-description img {
             width: 100%;
-            height: 100%;
-            border: 2px dashed #0f0;
-            pointer-events: none;
-            box-sizing: border-box;
+            border-radius: 50%;
+            border: 2px solid green;
+            margin-bottom: 20px;
         }
-        h1, h2 {
-            margin: 0;
-            font-size: 2em;
+        .main-content {
+            flex: 3;
         }
-        h1 {
-            color: #f00;
-        }
-        h2 {
-            color: #0f0;
-        }
-        .content {
+        .intro {
+            border: 2px solid green;
             padding: 20px;
+            margin-bottom: 20px;
+        }
+        .activity {
+            border: 2px solid green;
+            padding: 20px;
+        }
+        .activity-item {
+            border-bottom: 1px solid green;
+            padding: 10px 0;
+        }
+        .activity-item:last-child {
+            border-bottom: none;
         }
     </style>
 </head>
 <body>
+
+    <!-- Header -->
+    <header>
+        <b>whoami</b>
+    </header>
+
+    <!-- Menu -->
+    <nav>
+        <a href="#">Profile</a>
+        <a href="#">Badges</a>
+        <a href="#">Activity</a>
+    </nav>
+
+    <!-- Main Content -->
     <div class="container">
-        <div class="profile-header">
-            <h1>M. Nazar A</h1>
-            <h2>Alias: Kirito-kun</h2>
+        
+        <!-- Profile Description -->
+        <div class="profile-description">
+            <img src="path_to_profile_image.jpg" alt="Profile Image">
+            <p>M.N.A (Kirito-kun) </p>
+            <p>Jakarta</p>
+            <p><hr></p>
         </div>
-        <div class="content">
-            <!-- Tambahkan konten pribadi di sini -->
-            <p>Welcome to the private profile of M. Nazar A. This is a space for exploring various interests and updates. Stay tuned for more content!</p>
+
+        <!-- Intro and Activity -->
+        <div class="main-content">
+            <div class="intro">
+                <h2>About Kirito</h2>
+                <p>Kirito is a Security, System and Network Engineer.</p>
+            </div>
+
+            <!-- Activity -->
+            <div class="activity">
+                <h2>Activity</h2>
+                <div class="activity-item">
+                    <p>Certificate - Mikrotik Certified Traffic Control Engineer was achieved on May 2014</p>
+                </div>
+                <div class="activity-item">
+                    <p>Certificate - Mikrotik Certified Network Associate was achieved on May 2014</p>
+                </div>
+                <div class="activity-item">
+                    <p>Certificate - Cisco Certified Network Profesional Enterprise Core was achieved on November 2012</p>
+                </div>
+                <div class="activity-item">
+                    <p>Certificate - Cisco Certified Network Associate was achieved on May 2017</p>
+                </div>
+                <div class="activity-item">
+                    <p>Certificate - Cisco Certified Network Associate was achieved on May 2014</p>
+                </div>
+            </div>
         </div>
+
     </div>
+
 </body>
 </html>
