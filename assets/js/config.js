@@ -1,19 +1,35 @@
 window.PorfolioConfig = {
-  name: 'John Doe',
-  jobTitle: 'Full-stack Web Developer',
-  jobDescription: 'Sit quis in tempor quis. Nisi ex exercitation in irure. Reprehenderit sint aliqua et dolore enim laboris dolore exercitation magna aliqua ex ad.',
+  name: 'M. N. A',
+  jobTitle: 'Network, System and Security Engineer',
+  jobDescription: 'Don\'t tell anybody about yourself',
   skills: [
     {
-      name: 'JavaScript',
-      description: 'Reprehenderit mollit id ad veniam.'
+      name: 'Network Management',
+      description: 'Elit tempor mollit consectetur laborum nostrud qui in.'
     },
     {
-      name: 'HTML',
+      name: 'Wireless Management',
       description: 'Fugiat veniam esse consequat quis cillum elit consequat Lorem pariatur ipsum veniam irure incididunt non.'
     },
     {
-      name: 'CSS',
+      name: 'Routing and Switching',
       description: 'Elit tempor mollit consectetur laborum nostrud qui in.'
+    },
+    {
+      name: 'Server Management',
+      description: 'Elit tempor mollit consectetur laborum nostrud qui in.'
+    },
+    {
+      name: 'Server Virtualization',
+      description: 'Elit tempor mollit consectetur laborum nostrud qui in.'
+    },
+    {
+      name: 'Containerization & Orchestration',
+      description: 'Elit tempor mollit consectetur laborum nostrud qui in.'
+    },
+    {
+      name: 'Cyber Security Management',
+      description: 'Reprehenderit mollit id ad veniam.'
     }
   ],
   works: [
@@ -35,34 +51,34 @@ window.PorfolioConfig = {
   ],
   hobbies: [
     {
-      name: 'Rock Climbing',
+      name: 'Hiking',
       description: 'Occaecat ipsum dolor ea ad ut irure do proident excepteur consectetur duis eu culpa velit.'
     },
     {
-      name: 'Surfing',
+      name: 'Swimming',
       description: 'Laboris occaecat adipisicing culpa duis aute ea excepteur quis eiusmod mollit est pariatur.'
     },
     {
-      name: 'Rubick\'s Cube',
+      name: 'Gaming',
       description: 'Laborum pariatur sint labore officia enim occaecat id.'
     }
   ],
   contacts: {
-    email: 'john.doe@gmail.com',
-    mobileNo: '+639171234567',
-    phoneNo: '+12 345 6789',
+    email: 'kirito-kun@gmail.com',
+    mobileNo: '+62012345678',
+    phoneNo: '+21 123 456',
     links: [
       {
         name: 'GitHub',
-        link: 'https://github.com/jofftiquez'
+        link: 'https://github.com/kiritokun'
       },
       {
         name: 'Facebook',
-        link: 'https://facebook.com/jofftiquez'
+        link: 'https://facebook.com/kiritokun'
       },
       {
         name: 'Twitter',
-        link: 'https://twitter.com/jrtiquez'
+        link: 'https://twitter.com/kiritokun'
       }
     ]
   }
