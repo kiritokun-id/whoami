@@ -1,4 +1,7 @@
 # Private Profile of Kirito-kun
+
+Live Page [Kirito-kun](https://kiritokun.pages.dev/)
+
 * Skill
 * Experiences
 * Hobbies
