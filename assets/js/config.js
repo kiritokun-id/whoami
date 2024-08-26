@@ -1,51 +1,51 @@
 window.PorfolioConfig = {
-  name: 'M. N. A',
+  name: 'M. N. A.',
   jobTitle: 'Network, System and Security Engineer',
   jobDescription: 'Don\'t tell anybody about yourself',
   skills: [
     {
       name: 'Network Management',
-      description: 'Elit tempor mollit consectetur laborum nostrud qui in.'
+      description: 'Mikrotik, Cisco, Juniper, Ryujie, TP-Link, Unifi'
     },
     {
       name: 'Wireless Management',
-      description: 'Fugiat veniam esse consequat quis cillum elit consequat Lorem pariatur ipsum veniam irure incididunt non.'
+      description: 'Mikrotik, Aironet, Aruba, Ruckus, Unifi, TP-Link'
     },
     {
       name: 'Routing and Switching',
-      description: 'Elit tempor mollit consectetur laborum nostrud qui in.'
+      description: 'Mikrotik, Cisco, Juniper'
     },
     {
       name: 'Server Management',
-      description: 'Elit tempor mollit consectetur laborum nostrud qui in.'
+      description: 'HP, IBM, Sun Fire.'
     },
     {
       name: 'Server Virtualization',
-      description: 'Elit tempor mollit consectetur laborum nostrud qui in.'
+      description: 'Proxmox, VMware, OpenStack'
     },
     {
       name: 'Containerization & Orchestration',
-      description: 'Elit tempor mollit consectetur laborum nostrud qui in.'
+      description: 'Kubernetes'
     },
     {
       name: 'Cyber Security Management',
-      description: 'Reprehenderit mollit id ad veniam.'
+      description: 'Fortigate, Alien Vault, Wazuh'
     }
   ],
   works: [
     {
-      name: 'Vue Stripe Checkout',
-      link: 'https://jofftiquez.github.io/vue-stripe-checkout',
+      name: 'PT. XYZ',
+      link: 'https://xyz.com',
       description: 'Mollit dolor tempor adipisicing non pariatur in tempor cillum do. In officia ullamco laborum ullamco voluptate. Laboris sunt quis enim Lorem laboris aliquip duis non magna excepteur voluptate. Pariatur velit aliquip officia nulla anim reprehenderit deserunt. Sint nostrud ipsum do aliquip.'
     },
     {
-      name: 'ToDo App',
-      link: 'https://theuselessweb.com/',
+      name: 'PT. JKL',
+      link: 'https://jkl.com/',
       description: 'Esse magna anim incididunt enim sint aute consectetur ipsum id nostrud eu do. Pariatur et anim enim aliquip anim. Laboris labore incididunt labore enim nisi elit excepteur deserunt irure exercitation exercitation. Lorem sit ad laborum sit velit veniam sit nisi nostrud occaecat duis nulla duis.'
     },
     {
-      name: 'A Mobile Game',
-      link: 'https://theuselessweb.com/',
+      name: 'PT. ABC',
+      link: 'https://abc.com/',
       description: 'Incididunt non cupidatat deserunt ut commodo qui non do Lorem. Qui aute minim enim sit magna est consectetur incididunt. Ex est cupidatat tempor pariatur deserunt labore tempor minim laboris magna ipsum minim ea ea. Consectetur do anim laboris nulla nisi veniam sint qui.'
     }
   ],
