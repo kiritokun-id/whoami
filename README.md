@@ -4,5 +4,6 @@
 * Hobbies
 * Contact
 
+> Thanks to [OSSPhilippines](https://github.com/OSSPhilippines)
+
 > License under the [MIT License](https://github.com/OSSPhilippines/freefolio/blob/main/LICENSE)
-> Big Thanks to [OSSPhilippines](https://github.com/OSSPhilippines)
