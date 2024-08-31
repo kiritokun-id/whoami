@@ -1,10 +1,11 @@
-window.PorfolioConfig = {
+vwindow.PorfolioConfig = {
   name: 'M. N. A.',
   jobTitle: 'Network, System and Security Engineer',
   jobDescription: 'Don\'t tell anybody about yourself',
   skills: [
     {
       name: 'Network Management',
+      description: 'Mikrotik, Cisco, Juniper, Ryujie, TP-Link, Unifi',
       description: 'Mikrotik, Cisco, Juniper, Ryujie, TP-Link, Unifi'
     },
     {
