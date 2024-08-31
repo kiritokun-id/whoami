@@ -5,7 +5,6 @@ vwindow.PorfolioConfig = {
   skills: [
     {
       name: 'Network Management',
-      description: 'Mikrotik, Cisco, Juniper, Ryujie, TP-Link, Unifi',
       description: 'Mikrotik, Cisco, Juniper, Ryujie, TP-Link, Unifi'
     },
     {
