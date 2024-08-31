@@ -18,7 +18,7 @@ vwindow.PorfolioConfig = {
     },
     {
       name: 'Server Management',
-      description: 'HP, IBM, Sun Fire.'
+      description: 'HP, IBM, Sun Fire, Hardening'
     },
     {
       name: 'Server Virtualization',
