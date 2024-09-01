@@ -5,28 +5,23 @@ vwindow.PorfolioConfig = {
   skills: [
     {
       name: 'Network Management',
-      description: 'Routing, Switching, NAT, Access List',
-      devices: 'Mikrotik, Cisco, Juniper, Ryujie, TP-Link, Unifi'
+      description: 'Routing, Switching, NAT, Access List'
     },
     {
       name: 'Wireless Management',
-      description: '...',
-      devices: 'Mikrotik, Aironet, Aruba, Ruckus, Unifi, TP-Link'
+      description: '...'
     },
     {
       name: 'Server Management',
-      description: 'Virtualization, Hardening',
-      devices: 'HP, IBM, Sun Fire Proxmox, VMware, OpenStack'
+      description: 'Virtualization, Hardening'
     },
     {
       name: 'Containerization & Orchestration',
-      description: 'Kubernetes',
-      devices: 'xxx'
+      description: 'Kubernetes'
     },
     {
       name: 'Cyber Security Management',
-      description: 'Fortigate, Alien Vault, Wazuh',
-      devices: 'xxx'
+      description: 'Fortigate, Alien Vault, Wazuh'
     }
   ],
   works: [
