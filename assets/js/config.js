@@ -72,15 +72,15 @@ window.PorfolioConfig = {
     links: [
       {
         name: 'GitHub',
-        link: 'https://github.com/kiritokun'
+        link: 'https://github.com/kiritokun-id'
       },
       {
-        name: 'Facebook',
-        link: 'https://facebook.com/kiritokun'
+        name: 'Instagram',
+        link: 'https://instagram.com/kiritokun-id'
       },
       {
-        name: 'Twitter',
-        link: 'https://twitter.com/kiritokun'
+        name: 'Telegram',
+        link: 'https://telegram.com/kiritokun-id'
       }
     ]
   }
