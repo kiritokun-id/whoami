@@ -37,18 +37,18 @@ window.PorfolioConfig = {
   works: [
     {
       name: 'PT. GHI',
-      link: '2016 - 2024',
+      period: '2016 - 2024',
       description : 'Network, System and Security Engineer'
     },
     {
       name: 'PT. DEF',
-      link: '2015-07 to 2015-12',
-      description : 'Network Engineer'
+      period: '2015-07 to 2015-12',
+      description : 'Network Engineer & Team Coordinator'
     },
     {
       name: 'PT. ABC',
-      link: '2015-01 to 2015-06',
-      description : 'IT Support'
+      period: '2015-01 to 2015-06',
+      description : 'IT Support & Trainer Assistant'
     }
   ],
   hobbies: [
