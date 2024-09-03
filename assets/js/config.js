@@ -1,4 +1,4 @@
-vwindow.PorfolioConfig = {
+window.PorfolioConfig = {
   name: 'M. N. A.',
   jobTitle: 'Network, System and Security Engineer',
   jobDescription: 'Don\'t tell anybody about yourself',
