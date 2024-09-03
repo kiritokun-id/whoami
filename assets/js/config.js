@@ -4,13 +4,13 @@ window.PorfolioConfig = {
   jobDescription: 'Don\'t tell anybody about yourself',
   skills: [
     {
-      name: 'Network Management',
-      description: 'Routing, Switching, NAT, Access List',
+      name: 'Network Administration & Management',
+      description: 'Expertise in configuring and managing network infrastructures, including routing, switching, VPNs, NAT, access control lists (ACLs), and overall network administration. Proficient in handling complex network setups and troubleshooting with advanced tools and protocols.',
       devices: 'Mikrotik, Cisco, Juniper, Ryujie, TP-Link, Unifi'
     },
     {
-      name: 'Wireless Management',
-      description: '...',
+      name: 'Wireless Network Management',
+      description: 'Proficient in deploying and managing wireless networks with a focus on optimizing coverage, performance, and security. Expertise in configuring and troubleshooting access points, wireless controllers, and network management systems, particularly with Unifi products. Includes experience with site surveys, RF planning, and advanced wireless features such as guest networking, VLANs, and roaming.',
       devices: 'Mikrotik, Aironet, Aruba, Ruckus, Unifi, TP-Link'
     },
     {
