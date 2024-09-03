@@ -5,59 +5,64 @@ window.PorfolioConfig = {
   skills: [
     {
       name: 'Network Administration & Management',
-      description: 'Expertise in configuring and managing network infrastructures, including routing, switching, VPNs, NAT, access control lists (ACLs), and overall network administration. Proficient in handling complex network setups and troubleshooting with advanced tools and protocols.',
-      devices: 'Mikrotik, Cisco, Juniper, Ryujie, TP-Link, Unifi'
+      description: 'Expertise in configuring and managing network infrastructures, including routing, switching, VPNs, NAT, ACLs, and overall network administration. Proficient in handling complex network setups and troubleshooting with advanced tools and protocols.',
+      devices: 'Cisco, Juniper, Ryujie, Mikrotik, TP-Link, Unifi, Frr',
+      certifications: 'CCNA, CCNP, MTCNA, MTCTCE, RCNA'
     },
     {
       name: 'Wireless Network Management',
       description: 'Proficient in deploying and managing wireless networks with a focus on optimizing coverage, performance, and security. Expertise in configuring and troubleshooting access points, wireless controllers, and network management systems, particularly with Unifi products. Includes experience with site surveys, RF planning, and advanced wireless features such as guest networking, VLANs, and roaming.',
-      devices: 'Mikrotik, Aironet, Aruba, Ruckus, Unifi, TP-Link'
+      devices: 'Aironet, Aruba, Ruckus, Unifi, TP-Link, Mikrotik',
+      certifications: 'RCWA'
     },
     {
-      name: 'Server Management',
-      description: 'Virtualization, Hardening',
-      devices: 'HP, IBM, Sun Fire Proxmox, VMware, OpenStack'
+      name: 'Server and Virtualization Management',
+      description: 'Comprehensive management of server environments, including configuration, optimization, and security. Proficient in virtualization technologies, server hardening, and performance tuning. Experience with a wide range of server management tasks such as provisioning, monitoring, backups, and disaster recovery. Skilled in managing both physical and virtual servers, as well as utilizing management platforms and tools to streamline operations.',
+      devices: 'HP, Dell, IBM, Lenovo, Sun Fire - Proxmox, VMware, OpenStack',
+      certifications: '[Target Plan: RHCSA, RHCE, VCA, VCP, COA]'
     },
     {
       name: 'Containerization & Orchestration',
-      description: 'Kubernetes',
-      devices: 'xxx'
+      description: 'Expert in deploying, managing, and scaling containerized applications using containerization and orchestration technologies. Proficient in Docker for container creation and management, Kubernetes for container orchestration and cluster management, and other tools for CI/CD and service discovery. Skilled in designing and implementing microservices architectures, managing container registries, and ensuring high availability and scalability of containerized applications.',
+      devices: 'Docker, Kubernetes, OpenShift, Docker Swarm, Helm, Prometheus, Grafana',
+      certifications: '[Target Plan: CKA]'
     },
     {
       name: 'Cyber Security Management',
-      description: 'Fortigate, Alien Vault, Wazuh',
-      devices: 'xxx'
+      description: 'Skilled in implementing and managing comprehensive cybersecurity strategies to protect organizational assets from threats and vulnerabilities. Proficient in areas such as threat detection and response, risk assessment, vulnerability management, incident response, and security policy development. Experienced with various security tools and practices including firewalls, intrusion detection/prevention systems (IDS/IPS), encryption, endpoint protection, and security information and event management (SIEM). Adept at ensuring compliance with industry standards and regulations, and conducting security audits and penetration testing.',
+      devices: 'Firewalls (Fortigate, Paloalto, pfSense, Arista), IDS/IPS, SIEM (Alienvault, Wazuh, Logrhythm, Stellar), Endpoint Protection (CrowdStrike), VPN, Encryption Tools (OpenSSL), Network Scanners (Nessus, OpenVAS), Vulnerability Assessment (Burpsuite)',
+      certifications: 'CEH, [Target Plan: ECIH, CHFI]'
     }
   ],
   works: [
     {
-      name: 'PT. XYZ',
-      link: 'https://xyz.com',
-      description: 'Mollit dolor tempor adipisicing non pariatur in tempor cillum do. In officia ullamco laborum ullamco voluptate. Laboris sunt quis enim Lorem laboris aliquip duis non magna excepteur voluptate. Pariatur velit aliquip officia nulla anim reprehenderit deserunt. Sint nostrud ipsum do aliquip.'
+      name: 'PT. GHI',
+      link: '2016 - 2024',
+      description : 'Network, System and Security Engineer'
     },
     {
-      name: 'PT. JKL',
-      link: 'https://jkl.com/',
-      description: 'Esse magna anim incididunt enim sint aute consectetur ipsum id nostrud eu do. Pariatur et anim enim aliquip anim. Laboris labore incididunt labore enim nisi elit excepteur deserunt irure exercitation exercitation. Lorem sit ad laborum sit velit veniam sit nisi nostrud occaecat duis nulla duis.'
+      name: 'PT. DEF',
+      link: '2015-07 to 2015-12',
+      description : 'Network Engineer'
     },
     {
       name: 'PT. ABC',
-      link: 'https://abc.com/',
-      description: 'Incididunt non cupidatat deserunt ut commodo qui non do Lorem. Qui aute minim enim sit magna est consectetur incididunt. Ex est cupidatat tempor pariatur deserunt labore tempor minim laboris magna ipsum minim ea ea. Consectetur do anim laboris nulla nisi veniam sint qui.'
+      link: '2015-01 to 2015-06',
+      description : 'IT Support'
     }
   ],
   hobbies: [
     {
       name: 'Hiking',
-      description: 'Occaecat ipsum dolor ea ad ut irure do proident excepteur consectetur duis eu culpa velit.'
+      description: 'Mt. Pangrango (July 2012), Mt. Gede via Badak (December 2013), Mt. Gede via Putri (June 2014)'
     },
     {
-      name: 'Swimming',
-      description: 'Laboris occaecat adipisicing culpa duis aute ea excepteur quis eiusmod mollit est pariatur.'
+      name: 'Swimming, Tubing & Rafting',
+      description: 'Tubing Ciwidey (May 2023), Rafting Riverside (June 2024)'
     },
     {
       name: 'Gaming',
-      description: 'Laborum pariatur sint labore officia enim occaecat id.'
+      description: 'Minecraft, Dota & Survival Game'
     }
   ],
   contacts: {
