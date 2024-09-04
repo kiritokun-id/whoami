@@ -6,7 +6,7 @@ window.PorfolioConfig = {
     {
       name: 'Network Administration & Management',
       description: 'Expertise in configuring and managing network infrastructures, including routing, switching, VPNs, NAT, ACLs, and overall network administration. Proficient in handling complex network setups and troubleshooting with advanced tools and protocols.',
-      devices: 'Cisco, Juniper, Ryujie, Mikrotik, TP-Link, Unifi, Frr',
+      devices: 'Cisco, Juniper, Ruijie, Mikrotik, TP-Link, Unifi, Frr',
       certifications: 'CCNA, CCNP, MTCNA, MTCTCE, RCNA'
     },
     {
