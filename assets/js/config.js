@@ -11,8 +11,8 @@ window.PorfolioConfig = {
     },
     {
       name: 'Wireless Network Management',
-      description: 'Proficient in deploying and managing wireless networks with a focus on optimizing coverage, performance, and security. Expertise in configuring and troubleshooting access points, wireless controllers, and network management systems, particularly with Unifi products. Includes experience with site surveys, RF planning, and advanced wireless features such as guest networking, VLANs, and roaming.',
-      devices: 'Aironet, Aruba, Ruckus, Unifi, TP-Link, Mikrotik',
+      description: 'Proficient in deploying and managing wireless networks with a focus on optimizing coverage, performance, and security. Expertise in configuring and troubleshooting access points, wireless controllers, and network management systems. Includes experience with site surveys, RF planning, and advanced wireless features such as guest networking, VLANs, and roaming.',
+      devices: 'Aironet, Ruijie, Aruba, Ruckus, Unifi, TP-Link, Mikrotik',
       certifications: 'RCWA'
     },
     {
@@ -48,12 +48,12 @@ window.PorfolioConfig = {
     {
       name: 'PT. ABC',
       period: '2015-01 to 2015-06',
-      description : 'IT Support & Trainer Assistant'
+      description : 'IT Support & Training Assistant'
     }
   ],
   hobbies: [
     {
-      name: 'Hiking',
+      name: 'Hiking & Survival',
       description: 'Mt. Pangrango (July 2012), Mt. Gede via Badak (December 2013), Mt. Gede via Putri (June 2014)'
     },
     {
