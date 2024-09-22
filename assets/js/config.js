@@ -75,8 +75,8 @@ window.PorfolioConfig = {
         link: 'https://github.com/kiritokun-id'
       },
       {
-        name: 'Instagram',
-        link: 'https://instagram.com/kiritokun-id'
+        name: 'Blogspot',
+        link: 'https://kiritokun-id.blogspot.com/'
       },
       {
         name: 'Telegram',
