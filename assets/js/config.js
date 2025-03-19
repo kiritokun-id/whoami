@@ -66,7 +66,7 @@ window.PorfolioConfig = {
     }
   ],
   contacts: {
-    email: 'kirito-kun@gmail.com',
+    email: 'muhammad@cyberstore.biz.id',
     mobileNo: '+62012345678',
     phoneNo: '+21 123 456',
     links: [
