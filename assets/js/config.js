@@ -6,20 +6,20 @@ window.PorfolioConfig = {
     {
       name: 'Network Administration & Management',
       description: 'Expertise in configuring and managing network infrastructures, including routing, switching, VPNs, NAT, ACLs, and overall network administration. Proficient in handling complex network setups and troubleshooting with advanced tools and protocols.',
-      devices: 'Cisco, Juniper, Ruijie, Mikrotik, TP-Link, Unifi, Frr',
-      certifications: 'CCNA, CCNP, MTCNA, MTCTCE, RCNA'
+      devices: 'Cisco, Juniper, Ruijie, Mikrotik, Omada, Unifi, Frr',
+      certifications: 'CCNA, CCNP, MTCNA, MTCTCE, RCNA, OCNA, NSE'
     },
     {
       name: 'Wireless Network Management',
       description: 'Proficient in deploying and managing wireless networks with a focus on optimizing coverage, performance, and security. Expertise in configuring and troubleshooting access points, wireless controllers, and network management systems. Includes experience with site surveys, RF planning, and advanced wireless features such as guest networking, VLANs, and roaming.',
-      devices: 'Aironet, Ruijie, Aruba, Ruckus, Unifi, TP-Link, Mikrotik',
-      certifications: 'RCWA'
+      devices: 'Aironet, Ruijie, Aruba, Ruckus, Unifi, Omada, Mikrotik',
+      certifications: 'RCWA, OCNA'
     },
     {
       name: 'Server and Virtualization Management',
       description: 'Comprehensive management of server environments, including configuration, optimization, and security. Proficient in virtualization technologies, server hardening, and performance tuning. Experience with a wide range of server management tasks such as provisioning, monitoring, backups, and disaster recovery. Skilled in managing both physical and virtual servers, as well as utilizing management platforms and tools to streamline operations.',
       devices: 'HP, Dell, IBM, Lenovo, Sun Fire - Proxmox, VMware, OpenStack',
-      certifications: '[Target Plan: RHCSA, RHCE, VCA, VCP, COA]'
+      certifications: 'LPI, NGINX SU, VSP, CPP, CWA [Target Plan: RHCSA, RHCE, VCA, VCP]'
     },
     {
       name: 'Containerization & Orchestration',
@@ -37,7 +37,7 @@ window.PorfolioConfig = {
   works: [
     {
       name: 'PT. GHI',
-      period: '2016 - 2024',
+      period: '2016 - now',
       description : 'Network, System and Security Engineer'
     },
     {
