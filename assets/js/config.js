@@ -19,7 +19,7 @@ window.PorfolioConfig = {
       name: 'Server and Virtualization Management',
       description: 'Comprehensive management of server environments, including configuration, optimization, and security. Proficient in virtualization technologies, server hardening, and performance tuning. Experience with a wide range of server management tasks such as provisioning, monitoring, backups, and disaster recovery. Skilled in managing both physical and virtual servers, as well as utilizing management platforms and tools to streamline operations.',
       devices: 'HP, Dell, IBM, Lenovo, Sun Fire - Proxmox, VMware, OpenStack',
-      certifications: 'LPI, NGINX SU, VSP, CPP, CWA [Target Plan: RHCSA, RHCE, VCA, VCP]'
+      certifications: 'LPIC, NGINX SU, VSP, CPP, CWA [Target Plan: RHCSA, RHCE, VCA, VCP]'
     },
     {
       name: 'Containerization & Orchestration',
@@ -58,7 +58,7 @@ window.PorfolioConfig = {
     },
     {
       name: 'Swimming, Tubing & Rafting',
-      description: 'Tubing Ciwidey (May 2023), Rafting Riverside (June 2024)'
+      description: 'Tubing Ciwidey Bandung (May 2022), Muncul River Tubing Semarang (July 2023), Pangalengan Rafting Bandung (June 2024)'
     },
     {
       name: 'Gaming',
@@ -67,7 +67,7 @@ window.PorfolioConfig = {
   ],
   contacts: {
     email: 'muhammad@cyberstore.biz.id',
-    mobileNo: '+62012345678',
+    mobileNo: '+620123456789',
     phoneNo: '+21 123 456',
     links: [
       {
