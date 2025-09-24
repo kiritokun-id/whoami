@@ -66,7 +66,7 @@ window.PorfolioConfig = {
     }
   ],
   contacts: {
-    email: 'muhammad@cyberstore.biz.id',
+    email: 'kirito@cyberstore.biz.id',
     mobileNo: '+620123456789',
     phoneNo: '+21 123 456',
     links: [
@@ -80,7 +80,7 @@ window.PorfolioConfig = {
       },
       {
         name: 'Telegram',
-        link: 'https://telegram.com/kiritokun-id'
+        link: 'https://telegram.org/falsepos'
       }
     ]
   }
