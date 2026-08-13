@@ -1,5 +1,7 @@
 # Private Profile of Kirito-kun
 
+![Preview](assets/images/whoami.png)
+
 Live Page [Kirito-kun](https://kiritokun.pages.dev/)
 
 * Skill
