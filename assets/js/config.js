@@ -1,5 +1,5 @@
 window.PorfolioConfig = {
-  name: 'M. N. A.',
+  name: 'M.E.N.A.',
   jobTitle: 'Network, System and Security Engineer',
   jobDescription: 'Don\'t tell anybody about yourself',
   skills: [
@@ -54,11 +54,11 @@ window.PorfolioConfig = {
   hobbies: [
     {
       name: 'Hiking & Survival',
-      description: 'Mt. Pangrango (July 2012), Mt. Gede via Badak (December 2013), Mt. Gede via Putri (June 2014)'
+      description: 'Mt. Pangrango (July 2012), Mt. Gede (December 2013), Mt. Gede (June 2014), Mt. Gede (December 2025)'
     },
     {
       name: 'Swimming, Tubing & Rafting',
-      description: 'Tubing Ciwidey Bandung (May 2022), Muncul River Tubing Semarang (July 2023), Pangalengan Rafting Bandung (June 2024)'
+      description: 'Ciwidey Tubing(May 2022), Muncul River Tubing(July 2023), Pangalengan Rafting(June 2024)'
     },
     {
       name: 'Gaming',
@@ -66,17 +66,13 @@ window.PorfolioConfig = {
     }
   ],
   contacts: {
-    email: 'kirito@cyberstore.biz.id',
+    email: 'kirito@anywhere',
     mobileNo: '+620123456789',
     phoneNo: '+21 123 456',
     links: [
       {
         name: 'GitHub',
         link: 'https://github.com/kiritokun-id'
-      },
-      {
-        name: 'Blogspot',
-        link: 'https://kiritokun-id.blogspot.com/'
       },
       {
         name: 'Telegram',
