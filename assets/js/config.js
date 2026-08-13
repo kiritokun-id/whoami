@@ -53,7 +53,7 @@ window.PorfolioConfig = {
   ],
   hobbies: [
     {
-      name: 'Hiking & Survival',
+      name: 'Tracking, Hiking & Survival',
       description: 'Mt. Pangrango (July 2012), Mt. Gede (December 2013), Mt. Gede (June 2014), Mt. Gede (December 2025)'
     },
     {
